@@ -16,7 +16,7 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,arduino,python,flask,html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,arduino,python,fastapi,flask,html,css,js,nodejs,ts,react)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
