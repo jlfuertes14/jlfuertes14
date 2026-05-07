@@ -16,7 +16,7 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,python,flask,html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,python,flask,html,css,js,ts,react)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -31,11 +31,23 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 
 ## 🎧 Spotify Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312ezm6quqfyfwazlikwxp42y6hy&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+	[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312ezm6quqfyfwazlikwxp42y6hy&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</p>
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlfuertes14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](http://jlfuertes-portfolio.vercel.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fuertesjohnlesterc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnlester.fuertes@gmail.com)
+<p align="center">
+	<a href="https://linkedin.com/in/jlfuertes14">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="http://jlfuertes-portfolio.vercel.app/">
+		<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="https://youtube.com/@fuertesjohnlesterc">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+	</a>
+	<a href="mailto:johnlester.fuertes@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+	</a>
+</p>
