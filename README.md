@@ -16,7 +16,7 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,arduino,python,flask,html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,arduino,python,flask,html,css,js,ts,react)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -32,7 +32,9 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 ## 🎧 Spotify Now Playing
 
 <p align="center">
-	[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312ezm6quqfyfwazlikwxp42y6hy&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+	<a href="https://github.com/kittinan/spotify-github-profile">
+		<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312ezm6quqfyfwazlikwxp42y6hy&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false&profanity=false&bar_color_cover=true" alt="Spotify Now Playing" />
+	</a>
 </p>
 
 ## 🤝 Connect with me
