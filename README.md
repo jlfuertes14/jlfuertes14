@@ -29,6 +29,10 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 	<img src="https://streak-stats.demolab.com?user=jlfuertes14&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 🎧 Spotify Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312ezm6quqfyfwazlikwxp42y6hy&cover_image=true&theme=default&show_offline=false&background_color=0a0a0a&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jlfuertes14)
