@@ -21,8 +21,12 @@ I'm a Computer Engineer from the Philippines focused on automated systems, IoT s
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=jlfuertes14&show_icons=true&theme=tokyonight" alt="John's GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlfuertes14&layout=compact&theme=tokyonight" alt="Top languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jlfuertes14&theme=tokyonight" alt="GitHub stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jlfuertes14&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=jlfuertes14&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🤝 Connect with me
