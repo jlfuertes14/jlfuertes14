@@ -6,6 +6,12 @@
 
 <img src="https://media1.tenor.com/m/Z71Ll5DOe3EAAAAd/mambo-dudidam.gif" width="420" alt="Animated hero" />
 
+<br/>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=jlfuertes14&color=6da9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</a>
+
 </div>
 
 I'm a Computer Engineer from the Philippines focused on automated systems, IoT solutions, and responsive web apps. I help teams turn ideas into working prototypes with reliable code and clear UI.
